@@ -35,6 +35,7 @@ under the License.
 
   <properties>
     <checkstyle.violation.ignore>FileLength</checkstyle.violation.ignore>
+    <checkstyle.excludes>**/*.java</checkstyle.excludes>
   </properties>
 
   <dependencies>

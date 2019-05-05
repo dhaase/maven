@@ -48,7 +48,7 @@
   xml.namespace="http://maven.apache.org/POM/${version}"
   xml.schemaLocation="http://maven.apache.org/xsd/maven-${version}.xsd">
   <id>maven</id>
-  <name>Maven</name>
+  <name>MavenDirk</name>
   <description>
     <![CDATA[
     <p>This is a reference for the Maven project descriptor used in Maven.</p>
